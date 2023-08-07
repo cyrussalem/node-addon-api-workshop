@@ -1,7 +1,3 @@
-//
-// Created by Cyrus on 2023/08/06.
-//
-
 #ifndef SERIAL_PORT_ADDON_ROBOTCONNECTOR_H
 #define SERIAL_PORT_ADDON_ROBOTCONNECTOR_H
 

@@ -1,7 +1,6 @@
-const RobotArmAddon = require('bindings')('robot-arm-addon');
-
 const EventEmitter = require('events').EventEmitter
 
+const RobotArmAddon = require('bindings')('robot-arm-addon');
 
 this.options = {
     serialPath: '/dev/ttyACM0',
